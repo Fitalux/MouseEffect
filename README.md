@@ -1,6 +1,9 @@
 ﻿# MouseEffect
 <img src="https://github.com/Fitalux/MouseEffect/blob/main/img/display.png" />
 
+# VIEW SITE
+https://fitalux.github.io/web2023/javascript/mouse/mouseEffect01.html
+
 # DESC
 JAVASCRIPT를 사용하여 마우스 동작에 반응하여 시각적인 효과를 주는 웹 페이지를 구현하였습니다.
 마우스 커서가 특정 요소에 올라가면 모양이나 색이 바뀌는 효과나 마우스의 좌표값이 변경되는 효과, 마우스 포인터를 따라 요소가 흔들리는 등의 효과를 추가했습니다.
